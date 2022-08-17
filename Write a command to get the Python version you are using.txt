@@ -1,0 +1,9 @@
+Write a command to get the Python version you are using.
+Open Command Prompt
+C:\Users\Gaurav Chauhan>
+Write python --version script as
+C:\Users\Gaurav Chauhan>python --version
+Press Enter, you will get the python version installed on your system.
+Python 3.10.6
+
+
