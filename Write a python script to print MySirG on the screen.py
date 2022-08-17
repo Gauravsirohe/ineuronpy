@@ -1,0 +1,2 @@
+nm = '"MySirG"'
+print(nm)
