@@ -7,3 +7,6 @@ Press Enter, you will get the python version installed on your system.
 Python 3.10.6
 
 
+#By PY file
+import sys
+print(sys.version)
