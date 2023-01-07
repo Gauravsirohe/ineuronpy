@@ -1,0 +1,15 @@
+n1 = int(input("Enter first number: "))
+n2 = int(input("Enter Second number: "))
+#Finding greatest number
+if n1>n2:
+    g = n1
+else:
+    g = n2
+
+while True:
+    if g % n1 == 0 and g % n2 == 0:
+        lcm = g
+        break
+    g = g+1
+
+print("The L.C.M. is", lcm)
